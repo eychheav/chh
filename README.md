@@ -11,5 +11,5 @@ College of Science and Technology I would like to welcome you to the College of 
 </body>
 <img src="photo.jpg" alt="ITE103" width="330" height="300"> 
 <img src="photo2.jpg" alt="ITE103" width="330" height="300"> 
-<footer><h6>copyright@2025<h6></footer>
+
 </html>
