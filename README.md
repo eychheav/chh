@@ -1,9 +1,5 @@
 
 
-
-
-</head>
-
 <body>
 <h1> Tha University of Cambodia </h1>
 <h2> Coolege Scionce and Technology </h2>
