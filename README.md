@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> HTML and CSS</title>
+
+
+
+
 </head>
 
 <body>
